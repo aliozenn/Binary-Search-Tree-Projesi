@@ -12,6 +12,4 @@
         [8]'in sağında [1], solunda [0] bulunur.
         [1]'ın sağında [2] bulunur.
     
-     ![binaery search tree](https://user-images.githubusercontent.com/101044831/161434152-f8df80d0-9e04-4fb3-ad4a-cc1d2dfd5167.png)
-
-
+ ![resim için tıklayınız](https://user-images.githubusercontent.com/101044831/161434152-f8df80d0-9e04-4fb3-ad4a-cc1d2dfd5167.png)
